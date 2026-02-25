@@ -1,4 +1,4 @@
-Modified CLASS code where both dark matter-dark energy interactions and dark matter-baryon interactions were added. 
+Modified CLASS code where dark matter-dark energy interactions were added. 
 
 The original readme is added below.
 
